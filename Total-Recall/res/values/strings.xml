@@ -3,6 +3,12 @@
 
     <string name="app_name">Total-Recall</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="consumer_products_button">Consumer Products</string>
+    <string name="motor_vehicles_button">Motor Vehicles</string>
+    <string name="boats_button">Boats</string>
+    <string name="food_button">Food</string>
+    <string name="medicine_button">Medicine</string>
+    <string name="cosmetics_button">Cosmetics</string>
+    <string name="environmental_button">Environmental Products</string>
 
 </resources>
